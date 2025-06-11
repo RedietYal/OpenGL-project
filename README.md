@@ -97,5 +97,9 @@ The game is implemented as a single-file C++ application with the following key 
 - Minimal OpenGL state changes
 - Optimized rendering with instanced drawing
 - Smart memory management for game state
-
+**Course**: Computer Graphics Lab
+  **Institution**: Addis Ababa Universuty
+  **Semester**: Second semester
+  **Date**: 6/10/2025
+  
 
