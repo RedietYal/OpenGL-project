@@ -2,8 +2,6 @@
 
 A fully functional Tetris clone implemented in C++ using OpenGL and GLFW.
 
-## Features
-
 ### Core Features
 - 10x20 grid-based playing field
 - All 7 standard tetromino shapes (I, O, T, S, Z, J, L)
